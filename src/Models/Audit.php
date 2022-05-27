@@ -1,6 +1,6 @@
 <?php
 
-namespace Survey\Models;
+namespace Packagnevisi\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

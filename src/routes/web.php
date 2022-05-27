@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-$namespace = 'Survey\Http\Controller';
+$namespace = 'Packagnevisi\Http\Controller';
 
  Route::group([
      'namespace'=>$namespace,

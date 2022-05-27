@@ -1,6 +1,6 @@
 <?php
 
-namespace Survey\Http\requests;
+namespace Packagnevisi\Http\requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
