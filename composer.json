@@ -12,6 +12,8 @@
         "illuminate/support": ">=v6.0.0"
     },
     "autoload": {
-        "Packagnevisi\\": "src/"
+        "psr-4": {
+            "Packagnevisi\\": "src/"
+        }
     }
 }
