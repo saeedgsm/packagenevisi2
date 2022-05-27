@@ -1,0 +1,16 @@
+{
+    "name": "saeed/packagenevisi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saeed",
+            "email": "blestdev@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": ">=v6.0.0"
+    },
+    "autoload": {
+        "Packagnevisi\\": "src/"
+    }
+}
